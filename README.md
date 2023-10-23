@@ -1,6 +1,6 @@
 # Pomodoro-Timer
 ## What is Pomodoro timer?
-The secret to efficient time management is to think in terms of tomatoes rather than hours. The Pomodoro Technique may appear goofy at first, yet millions of people swear by its life-changing impact. (Pomodoro is an Italian word meaning tomato.🍅) To enhance prolonged attention and prevent mental weariness, this popular time management strategy requires you to alternate pomodoros — focused work sessions — with regular brief breaks.   
+The secret to efficient time management is to think in terms of tomatoes rather than hours. The Pomodoro Technique may appear goofy at first, yet millions of people swear by its life-changing impact. (Pomodoro is an Italian word meaning tomato.🍅) To enhance prolonged attention and prevent mental weariness, this popular time management strategy requires you to alternate pomodoros — focused work sessions — with regular brief breaks. Pomodoro-Timer is implented using tkinter python library.
 Try the Pomodoro Technique if you:
 <ul>
   <li>Find little distractions often derail the whole workday</li>
